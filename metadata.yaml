@@ -1,0 +1,58 @@
+_repo: The-Torrents-of-Spring_9911
+_version: 0.0.1
+alternative_title: Veshnie vody. English
+contributor:
+  translator:
+    agent_name: Garnett, Constance
+    alias: Black, Constance Clara
+    birthdate: 1861
+    deathdate: 1946
+    gutenberg_agent_id: '2858'
+    url: http://www.gutenberg.org/2009/agents/2858
+    wikipedia:
+    - http://www.womenofbrighton.co.uk/constanceblackgarnett.htm
+    - http://en.wikipedia.org/wiki/Constance_Garnett
+creator:
+  author:
+    agent_name: Turgenev, Ivan Sergeevich
+    aliases:
+    - Turgénieff, Iván
+    - Tourgueneff, Ivan
+    - Тургенев, Иван Сергеевич
+    birthdate: 1818
+    deathdate: 1883
+    gutenberg_agent_id: '922'
+    url: http://www.gutenberg.org/2009/agents/922
+    wikipedia: http://en.wikipedia.org/wiki/Ivan_Turgenev
+description: "Torrents of Spring, also known as Spring Torrents (Russian: Вешние воды),\
+  \ is a novel written by Ivan Turgenev during 1870 and 1871 when he was in his fifties.\
+  \ The story centers around a young Russian landowner named Dimitry Sanin who falls\
+  \ deliriously in love for the first time while visiting the German city of Frankfurt.\
+  \ It is widely held as one Turgenev's greatest novels as well as being highly autobiographical\
+  \ in nature.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2006-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9911'
+  wikidata: Q1826666
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Russian fiction -- Translations into English'
+- !lcc 'PG'
+- !lcsh 'Love stories'
+- GITenberg
+title: The Torrents of Spring
+url: http://www.gutenberg.org/ebooks/9911
+wikipedia:
+- https://fr.wikipedia.org/wiki/Eaux_printani%C3%A8res
+- https://ar.wikipedia.org/wiki/%D8%B3%D9%8A%D9%88%D9%84_%D8%A7%D9%84%D8%B1%D8%A8%D9%8A%D8%B9_(%D8%AA%D9%88%D8%B1%D8%BA%D9%8A%D9%86%D9%8A%D9%81)
+- https://nl.wikipedia.org/wiki/Lentebeken
+- https://fa.wikipedia.org/wiki/%D8%B3%DB%8C%D9%84%D8%A7%D8%A8_%D8%A8%D9%87%D8%A7%D8%B1%DB%8C
+- https://de.wikipedia.org/wiki/Fr%C3%BChlingswogen
+- https://ru.wikisource.org/wiki/%D0%92%D0%B5%D1%88%D0%BD%D0%B8%D0%B5_%D0%B2%D0%BE%D0%B4%D1%8B_(%D0%A2%D1%83%D1%80%D0%B3%D0%B5%D0%BD%D0%B5%D0%B2)
+- https://en.wikipedia.org/wiki/Torrents_of_Spring
+- https://it.wikipedia.org/wiki/Acque_di_primavera_(racconto)
+- https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D1%88%D0%BD%D0%B8%D0%B5_%D0%B2%D0%BE%D0%B4%D1%8B
