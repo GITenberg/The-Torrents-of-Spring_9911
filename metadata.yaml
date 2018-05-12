@@ -1,5 +1,5 @@
 _repo: The-Torrents-of-Spring_9911
-_version: 0.0.1
+_version: 0.1.0
 alternative_title: Veshnie vody. English
 contributor:
   translator:
@@ -12,6 +12,9 @@ contributor:
     wikipedia:
     - http://www.womenofbrighton.co.uk/constanceblackgarnett.htm
     - http://en.wikipedia.org/wiki/Constance_Garnett
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Turgenev, Ivan Sergeevich
@@ -30,6 +33,8 @@ description: "Torrents of Spring, also known as Spring Torrents (Russian: Веш
   \ deliriously in love for the first time while visiting the German city of Frankfurt.\
   \ It is widely held as one Turgenev's greatest novels as well as being highly autobiographical\
   \ in nature.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9911#The-Torrents-of-Spring
 gutenberg_issued: '2006-02-01'
 gutenberg_type: Text
 identifiers:
